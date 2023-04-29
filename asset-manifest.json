@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HomeBTI/static/css/main.e6c13ad2.css",
-    "main.js": "/HomeBTI/static/js/main.16ac7c7c.js",
+    "main.js": "/HomeBTI/static/js/main.e45ff962.js",
     "static/js/787.41303e78.chunk.js": "/HomeBTI/static/js/787.41303e78.chunk.js",
     "static/media/house.png": "/HomeBTI/static/media/house.65be2803d16cbd904ccd.png",
     "static/media/autumn.jpg": "/HomeBTI/static/media/autumn.71e17455c1cbac529543.jpg",
@@ -10,11 +10,11 @@
     "static/media/spring.jpg": "/HomeBTI/static/media/spring.9d439ed8ae250d0ad1d4.jpg",
     "index.html": "/HomeBTI/index.html",
     "main.e6c13ad2.css.map": "/HomeBTI/static/css/main.e6c13ad2.css.map",
-    "main.16ac7c7c.js.map": "/HomeBTI/static/js/main.16ac7c7c.js.map",
+    "main.e45ff962.js.map": "/HomeBTI/static/js/main.e45ff962.js.map",
     "787.41303e78.chunk.js.map": "/HomeBTI/static/js/787.41303e78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.16ac7c7c.js"
+    "static/js/main.e45ff962.js"
   ]
 }
